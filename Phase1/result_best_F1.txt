@@ -1,0 +1,453 @@
+______________________TEST 1_________________________
+Restoring model weights from the end of the best epoch.
+Epoch 00214: early stopping
+Test Evaluation with Seed: 0
+AUC Score: 0.9108515723270441
+              precision    recall  f1-score   support
+
+      benign       1.00      0.94      0.97      5000
+   malicious       0.32      0.88      0.47       159
+
+    accuracy                           0.94      5159
+   macro avg       0.66      0.91      0.72      5159
+weighted avg       0.98      0.94      0.95      5159
+
+[[4706  294]
+ [  19  140]]
+Restoring model weights from the end of the best epoch.
+Epoch 00063: early stopping
+Test Evaluation with Seed: 1
+AUC Score: 0.8970283018867925
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.97      5000
+   malicious       0.33      0.85      0.47       159
+
+    accuracy                           0.94      5159
+   macro avg       0.66      0.90      0.72      5159
+weighted avg       0.97      0.94      0.95      5159
+
+[[4725  275]
+ [  24  135]]
+Restoring model weights from the end of the best epoch.
+Epoch 00030: early stopping
+Test Evaluation with Seed: 2
+AUC Score: 0.9069408805031446
+              precision    recall  f1-score   support
+
+      benign       1.00      0.92      0.96      5000
+   malicious       0.26      0.89      0.41       159
+
+    accuracy                           0.92      5159
+   macro avg       0.63      0.91      0.68      5159
+weighted avg       0.97      0.92      0.94      5159
+
+[[4604  396]
+ [  17  142]]
+Restoring model weights from the end of the best epoch.
+Epoch 00032: early stopping
+Test Evaluation with Seed: 3
+AUC Score: 0.9217194968553459
+              precision    recall  f1-score   support
+
+      benign       1.00      0.93      0.96      5000
+   malicious       0.28      0.92      0.43       159
+
+    accuracy                           0.92      5159
+   macro avg       0.64      0.92      0.69      5159
+weighted avg       0.98      0.92      0.94      5159
+
+[[4626  374]
+ [  13  146]]
+Restoring model weights from the end of the best epoch.
+Epoch 00046: early stopping
+Test Evaluation with Seed: 4
+AUC Score: 0.8924622641509435
+              precision    recall  f1-score   support
+
+      benign       1.00      0.92      0.95      5000
+   malicious       0.25      0.87      0.39       159
+
+    accuracy                           0.92      5159
+   macro avg       0.62      0.89      0.67      5159
+weighted avg       0.97      0.92      0.94      5159
+
+[[4585  415]
+ [  21  138]]
+Restoring model weights from the end of the best epoch.
+Epoch 00044: early stopping
+Test Evaluation with Seed: 5
+AUC Score: 0.8824389937106919
+              precision    recall  f1-score   support
+
+      benign       0.99      0.93      0.96      5000
+   malicious       0.27      0.84      0.41       159
+
+    accuracy                           0.93      5159
+   macro avg       0.63      0.88      0.68      5159
+weighted avg       0.97      0.93      0.94      5159
+
+[[4642  358]
+ [  26  133]]
+Restoring model weights from the end of the best epoch.
+Epoch 00035: early stopping
+Test Evaluation with Seed: 6
+AUC Score: 0.8984729559748428
+              precision    recall  f1-score   support
+
+      benign       1.00      0.94      0.97      5000
+   malicious       0.32      0.86      0.46       159
+
+    accuracy                           0.94      5159
+   macro avg       0.66      0.90      0.72      5159
+weighted avg       0.97      0.94      0.95      5159
+
+[[4708  292]
+ [  23  136]]
+Restoring model weights from the end of the best epoch.
+Epoch 00033: early stopping
+Test Evaluation with Seed: 7
+AUC Score: 0.8920283018867925
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.96      5000
+   malicious       0.29      0.85      0.44       159
+
+    accuracy                           0.93      5159
+   macro avg       0.64      0.89      0.70      5159
+weighted avg       0.97      0.93      0.95      5159
+
+[[4675  325]
+ [  24  135]]
+Restoring model weights from the end of the best epoch.
+Epoch 00049: early stopping
+Test Evaluation with Seed: 8
+AUC Score: 0.8681050314465409
+              precision    recall  f1-score   support
+
+      benign       0.99      0.92      0.95      5000
+   malicious       0.24      0.82      0.37       159
+
+    accuracy                           0.92      5159
+   macro avg       0.62      0.87      0.66      5159
+weighted avg       0.97      0.92      0.94      5159
+
+[[4593  407]
+ [  29  130]]
+Restoring model weights from the end of the best epoch.
+Epoch 00044: early stopping
+Test Evaluation with Seed: 9
+AUC Score: 0.8852836477987421
+              precision    recall  f1-score   support
+
+      benign       0.99      0.93      0.96      5000
+   malicious       0.27      0.84      0.41       159
+
+    accuracy                           0.93      5159
+   macro avg       0.63      0.89      0.68      5159
+weighted avg       0.97      0.93      0.94      5159
+
+[[4639  361]
+ [  25  134]]
+______________________TEST 2_________________________
+Restoring model weights from the end of the best epoch.
+Epoch 00052: early stopping
+Test Evaluation with Seed: 0
+AUC Score: 0.9054408805031445
+              precision    recall  f1-score   support
+
+      benign       1.00      0.92      0.96      5000
+   malicious       0.26      0.89      0.40       159
+
+    accuracy                           0.92      5159
+   macro avg       0.63      0.91      0.68      5159
+weighted avg       0.97      0.92      0.94      5159
+
+[[4589  411]
+ [  17  142]]
+Restoring model weights from the end of the best epoch.
+Epoch 00033: early stopping
+Test Evaluation with Seed: 1
+AUC Score: 0.8798943396226415
+              precision    recall  f1-score   support
+
+      benign       0.99      0.93      0.96      5000
+   malicious       0.27      0.83      0.41       159
+
+    accuracy                           0.93      5159
+   macro avg       0.63      0.88      0.69      5159
+weighted avg       0.97      0.93      0.94      5159
+
+[[4648  352]
+ [  27  132]]
+Restoring model weights from the end of the best epoch.
+Epoch 00040: early stopping
+Test Evaluation with Seed: 2
+AUC Score: 0.8726157232704403
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.97      5000
+   malicious       0.30      0.81      0.44       159
+
+    accuracy                           0.94      5159
+   macro avg       0.65      0.87      0.70      5159
+weighted avg       0.97      0.94      0.95      5159
+
+[[4701  299]
+ [  31  128]]
+Restoring model weights from the end of the best epoch.
+Epoch 00036: early stopping
+Test Evaluation with Seed: 3
+AUC Score: 0.8835050314465409
+              precision    recall  f1-score   support
+
+      benign       0.99      0.95      0.97      5000
+   malicious       0.34      0.82      0.48       159
+
+    accuracy                           0.95      5159
+   macro avg       0.67      0.88      0.73      5159
+weighted avg       0.97      0.95      0.96      5159
+
+[[4747  253]
+ [  29  130]]
+Restoring model weights from the end of the best epoch.
+Epoch 00031: early stopping
+Test Evaluation with Seed: 4
+AUC Score: 0.8981515723270439
+              precision    recall  f1-score   support
+
+      benign       1.00      0.92      0.95      5000
+   malicious       0.25      0.88      0.39       159
+
+    accuracy                           0.91      5159
+   macro avg       0.62      0.90      0.67      5159
+weighted avg       0.97      0.91      0.94      5159
+
+[[4579  421]
+ [  19  140]]
+Restoring model weights from the end of the best epoch.
+Epoch 00046: early stopping
+Test Evaluation with Seed: 5
+AUC Score: 0.9161748427672955
+              precision    recall  f1-score   support
+
+      benign       1.00      0.92      0.96      5000
+   malicious       0.27      0.91      0.41       159
+
+    accuracy                           0.92      5159
+   macro avg       0.63      0.92      0.69      5159
+weighted avg       0.97      0.92      0.94      5159
+
+[[4602  398]
+ [  14  145]]
+Restoring model weights from the end of the best epoch.
+Epoch 00044: early stopping
+Test Evaluation with Seed: 6
+AUC Score: 0.8926836477987422
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.97      5000
+   malicious       0.32      0.84      0.46       159
+
+    accuracy                           0.94      5159
+   macro avg       0.66      0.89      0.72      5159
+weighted avg       0.97      0.94      0.95      5159
+
+[[4713  287]
+ [  25  134]]
+Restoring model weights from the end of the best epoch.
+Epoch 00042: early stopping
+Test Evaluation with Seed: 7
+AUC Score: 0.9268641509433962
+              precision    recall  f1-score   support
+
+      benign       1.00      0.93      0.96      5000
+   malicious       0.29      0.92      0.45       159
+
+    accuracy                           0.93      5159
+   macro avg       0.65      0.93      0.70      5159
+weighted avg       0.98      0.93      0.95      5159
+
+[[4646  354]
+ [  12  147]]
+Restoring model weights from the end of the best epoch.
+Epoch 00027: early stopping
+Test Evaluation with Seed: 8
+AUC Score: 0.9077962264150944
+              precision    recall  f1-score   support
+
+      benign       1.00      0.93      0.96      5000
+   malicious       0.28      0.89      0.43       159
+
+    accuracy                           0.93      5159
+   macro avg       0.64      0.91      0.70      5159
+weighted avg       0.97      0.93      0.94      5159
+
+[[4644  356]
+ [  18  141]]
+Restoring model weights from the end of the best epoch.
+Epoch 00048: early stopping
+Test Evaluation with Seed: 9
+AUC Score: 0.8948729559748428
+              precision    recall  f1-score   support
+
+      benign       1.00      0.93      0.96      5000
+   malicious       0.29      0.86      0.44       159
+
+    accuracy                           0.93      5159
+   macro avg       0.64      0.89      0.70      5159
+weighted avg       0.97      0.93      0.95      5159
+
+[[4672  328]
+ [  23  136]]
+______________________TEST 3_________________________
+Restoring model weights from the end of the best epoch.
+Epoch 00051: early stopping
+Test Evaluation with Seed: 0
+AUC Score: 0.8870714285714286
+              precision    recall  f1-score   support
+
+      benign       0.99      0.92      0.95      5000
+   malicious       0.26      0.86      0.40       168
+
+    accuracy                           0.92      5168
+   macro avg       0.63      0.89      0.68      5168
+weighted avg       0.97      0.92      0.94      5168
+
+[[4585  415]
+ [  24  144]]
+Restoring model weights from the end of the best epoch.
+Epoch 00038: early stopping
+Test Evaluation with Seed: 1
+AUC Score: 0.8932714285714286
+              precision    recall  f1-score   support
+
+      benign       0.99      0.93      0.96      5000
+   malicious       0.29      0.86      0.43       168
+
+    accuracy                           0.93      5168
+   macro avg       0.64      0.89      0.70      5168
+weighted avg       0.97      0.93      0.94      5168
+
+[[4647  353]
+ [  24  144]]
+Restoring model weights from the end of the best epoch.
+Epoch 00036: early stopping
+Test Evaluation with Seed: 2
+AUC Score: 0.8874190476190477
+              precision    recall  f1-score   support
+
+      benign       0.99      0.93      0.96      5000
+   malicious       0.29      0.85      0.43       168
+
+    accuracy                           0.93      5168
+   macro avg       0.64      0.89      0.69      5168
+weighted avg       0.97      0.93      0.94      5168
+
+[[4648  352]
+ [  26  142]]
+Restoring model weights from the end of the best epoch.
+Epoch 00044: early stopping
+Test Evaluation with Seed: 3
+AUC Score: 0.8976952380952382
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.97      5000
+   malicious       0.34      0.85      0.48       168
+
+    accuracy                           0.94      5168
+   macro avg       0.67      0.90      0.73      5168
+weighted avg       0.97      0.94      0.95      5168
+
+[[4721  279]
+ [  25  143]]
+Restoring model weights from the end of the best epoch.
+Epoch 00048: early stopping
+Test Evaluation with Seed: 4
+AUC Score: 0.8902476190476191
+              precision    recall  f1-score   support
+
+      benign       1.00      0.92      0.95      5000
+   malicious       0.26      0.86      0.40       168
+
+    accuracy                           0.92      5168
+   macro avg       0.63      0.89      0.68      5168
+weighted avg       0.97      0.92      0.94      5168
+
+[[4587  413]
+ [  23  145]]
+Restoring model weights from the end of the best epoch.
+Epoch 00035: early stopping
+Test Evaluation with Seed: 5
+AUC Score: 0.8823666666666667
+              precision    recall  f1-score   support
+
+      benign       0.99      0.93      0.96      5000
+   malicious       0.29      0.83      0.43       168
+
+    accuracy                           0.93      5168
+   macro avg       0.64      0.88      0.70      5168
+weighted avg       0.97      0.93      0.94      5168
+
+[[4657  343]
+ [  28  140]]
+Restoring model weights from the end of the best epoch.
+Epoch 00030: early stopping
+Test Evaluation with Seed: 6
+AUC Score: 0.8742619047619048
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.97      5000
+   malicious       0.31      0.81      0.45       168
+
+    accuracy                           0.93      5168
+   macro avg       0.65      0.87      0.71      5168
+weighted avg       0.97      0.93      0.95      5168
+
+[[4695  305]
+ [  32  136]]
+Restoring model weights from the end of the best epoch.
+Epoch 00031: early stopping
+Test Evaluation with Seed: 7
+AUC Score: 0.8812904761904762
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.96      5000
+   malicious       0.30      0.83      0.44       168
+
+    accuracy                           0.93      5168
+   macro avg       0.65      0.88      0.70      5168
+weighted avg       0.97      0.93      0.95      5168
+
+[[4676  324]
+ [  29  139]]
+Restoring model weights from the end of the best epoch.
+Epoch 00040: early stopping
+Test Evaluation with Seed: 8
+AUC Score: 0.8899714285714285
+              precision    recall  f1-score   support
+
+      benign       0.99      0.92      0.96      5000
+   malicious       0.27      0.86      0.41       168
+
+    accuracy                           0.92      5168
+   macro avg       0.63      0.89      0.69      5168
+weighted avg       0.97      0.92      0.94      5168
+
+[[4614  386]
+ [  24  144]]
+Restoring model weights from the end of the best epoch.
+Epoch 00036: early stopping
+Test Evaluation with Seed: 9
+AUC Score: 0.8812904761904762
+              precision    recall  f1-score   support
+
+      benign       0.99      0.94      0.96      5000
+   malicious       0.30      0.83      0.44       168
+
+    accuracy                           0.93      5168
+   macro avg       0.65      0.88      0.70      5168
+weighted avg       0.97      0.93      0.95      5168
+
+[[4676  324]
+ [  29  139]]

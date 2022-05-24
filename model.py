@@ -216,17 +216,34 @@ class MetaPath2Vec(torch.nn.Module):
         # Positive loss.
 
         start, rest = pos_rw[0], pos_rw[1:].contiguous()
+        # print(pos_rw)
+        # print(pos_rw.size())
 
+        # print(pos_rw[1:].contiguous().size())
+        # print(pos_rw[1:].contiguous().view(-1).size())
         # h_start = self.embedding(start).view(pos_rw.size(0), 1,
         #                                      self.embedding_dim)
         # h_rest = self.embedding(rest.view(-1)).view(pos_rw.size(0), -1,
         #                                             self.embedding_dim)
         h_start = self.embedding(start)
         h_rest = self.embedding(rest.view(-1))
-        # print(h_start.size())
-        # print(h_rest.size())
+
+        # out = [h_start]
+        # for i in range(h_rest.size()[0]):
+        #     out.append(h_rest[i][:])
+        # # print(out)
+        # out = torch.stack(out,1).mean(dim=-1)
+        # print(out)
+        # qeqqewwq
+
+
+        # out = h_start
+        # out = h_rest[0]
         out = (h_start * h_rest).mean(dim=0)
-        # out = (h_start * h_rest)
+
+
+
+
         return out
 
 

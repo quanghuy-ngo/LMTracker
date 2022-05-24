@@ -1,0 +1,151 @@
+______________________TEST 3_________________________
+Restoring model weights from the end of the best epoch.
+Epoch 00235: early stopping
+Test Evaluation with Seed: 0
+0.9205380952380952
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95      5000
+           1       0.24      0.94      0.38       168
+
+    accuracy                           0.90      5168
+   macro avg       0.62      0.92      0.67      5168
+weighted avg       0.97      0.90      0.93      5168
+
+[[4503  497]
+ [  10  158]]
+Restoring model weights from the end of the best epoch.
+Epoch 00071: early stopping
+Test Evaluation with Seed: 1
+0.9215619047619047
+              precision    recall  f1-score   support
+
+           0       1.00      0.91      0.95      5000
+           1       0.26      0.93      0.40       168
+
+    accuracy                           0.91      5168
+   macro avg       0.63      0.92      0.68      5168
+weighted avg       0.97      0.91      0.93      5168
+
+[[4543  457]
+ [  11  157]]
+Restoring model weights from the end of the best epoch.
+Epoch 00045: early stopping
+Test Evaluation with Seed: 2
+0.9173619047619047
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95      5000
+           1       0.24      0.93      0.38       168
+
+    accuracy                           0.90      5168
+   macro avg       0.62      0.92      0.66      5168
+weighted avg       0.97      0.90      0.93      5168
+
+[[4501  499]
+ [  11  157]]
+Restoring model weights from the end of the best epoch.
+Epoch 00047: early stopping
+Test Evaluation with Seed: 3
+0.9304619047619048
+              precision    recall  f1-score   support
+
+           0       1.00      0.93      0.96      5000
+           1       0.30      0.93      0.45       168
+
+    accuracy                           0.93      5168
+   macro avg       0.65      0.93      0.71      5168
+weighted avg       0.97      0.93      0.94      5168
+
+[[4632  368]
+ [  11  157]]
+Restoring model weights from the end of the best epoch.
+Epoch 00039: early stopping
+Test Evaluation with Seed: 4
+0.9115619047619048
+              precision    recall  f1-score   support
+
+           0       1.00      0.89      0.94      5000
+           1       0.22      0.93      0.36       168
+
+    accuracy                           0.89      5168
+   macro avg       0.61      0.91      0.65      5168
+weighted avg       0.97      0.89      0.92      5168
+
+[[4443  557]
+ [  11  157]]
+Restoring model weights from the end of the best epoch.
+Epoch 00030: early stopping
+Test Evaluation with Seed: 5
+0.9151380952380952
+              precision    recall  f1-score   support
+
+           0       1.00      0.89      0.94      5000
+           1       0.22      0.94      0.36       168
+
+    accuracy                           0.89      5168
+   macro avg       0.61      0.92      0.65      5168
+weighted avg       0.97      0.89      0.92      5168
+
+[[4449  551]
+ [  10  158]]
+Restoring model weights from the end of the best epoch.
+Epoch 00038: early stopping
+Test Evaluation with Seed: 6
+0.9278380952380952
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.95      5000
+           1       0.27      0.94      0.42       168
+
+    accuracy                           0.92      5168
+   macro avg       0.63      0.93      0.69      5168
+weighted avg       0.97      0.92      0.94      5168
+
+[[4576  424]
+ [  10  158]]
+Restoring model weights from the end of the best epoch.
+Epoch 00025: early stopping
+Test Evaluation with Seed: 7
+0.9214619047619047
+              precision    recall  f1-score   support
+
+           0       1.00      0.91      0.95      5000
+           1       0.26      0.93      0.40       168
+
+    accuracy                           0.91      5168
+   macro avg       0.63      0.92      0.68      5168
+weighted avg       0.97      0.91      0.93      5168
+
+[[4542  458]
+ [  11  157]]
+Restoring model weights from the end of the best epoch.
+Epoch 00048: early stopping
+Test Evaluation with Seed: 8
+0.9194619047619047
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95      5000
+           1       0.25      0.93      0.39       168
+
+    accuracy                           0.91      5168
+   macro avg       0.62      0.92      0.67      5168
+weighted avg       0.97      0.91      0.93      5168
+
+[[4522  478]
+ [  11  157]]
+Restoring model weights from the end of the best epoch.
+Epoch 00037: early stopping
+Test Evaluation with Seed: 9
+0.9242619047619047
+              precision    recall  f1-score   support
+
+           0       1.00      0.91      0.95      5000
+           1       0.27      0.93      0.42       168
+
+    accuracy                           0.91      5168
+   macro avg       0.63      0.92      0.68      5168
+weighted avg       0.97      0.91      0.94      5168
+
+[[4570  430]
+ [  11  157]]
