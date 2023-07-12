@@ -1,3 +1,4 @@
+0. Download Comprehensive, Multi-Source Cyber-Security Events LANL data from: https://csr.lanl.gov/data/cyber1/
 1. Contruct Graph from LANL data:
 python3 graph_construction.py
 
